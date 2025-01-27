@@ -1,0 +1,33 @@
+.fruits{
+   background-color: orange;
+    border: 2px solid blueviolet;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.cars{
+    background-color: chocolate;
+    border: 1px solid crimson;
+    margin: 15px;
+    padding: 15px;
+    text-align: left;
+    font-family: Algerian, serif;
+}
+.FRUITS{
+    background-color: aqua;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, serif;
+}
+#computer{
+    background-color: aquamarine;
+    border: 3px solid brown;
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+    font-family: "Arial Rounded MT Bold", fantasy;
+
+}
